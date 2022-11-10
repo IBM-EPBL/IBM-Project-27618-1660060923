@@ -4,4 +4,4 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 - YOLO-based Convolutional Neural Network family of models for object detection and the most recent variation called YOLOv3.
 
-- How to train a YOLO model in a windows environment.
+- How to train a YOLO model in a windows environment
