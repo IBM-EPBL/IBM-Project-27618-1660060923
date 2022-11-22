@@ -6,10 +6,10 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning.
 
 - How to train a YOLO models in a windows environment
 # TEAM MEMBERS
-- KRISNA KUMAR S
-- SUBASH V
-- KAMESH H
-- MAHESH G
+- KRISNA KUMAR.S
+- SUBASH.V
+- KAMESH.H
+- MAHESH.G
 
 Project Statement :
     1. Swimming is one of the best exercises that helps people to reduce stress in this urban lifestyle. Swimming pools are found larger in number in hotels.
@@ -20,3 +20,6 @@ Project Statement :
     
 # TECHNICAL ARCHITECTURE :
 ![image](https://user-images.githubusercontent.com/100918407/203212474-81d7f0f2-69ee-4c31-8601-03e38de9a38b.png)
+# PROJECT OVERVIEW :
+![image](https://user-images.githubusercontent.com/100918407/203212662-2407a2ff-8d56-4c38-989c-9dcb04d01473.png)
+
