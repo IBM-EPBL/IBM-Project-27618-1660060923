@@ -6,7 +6,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning.
 
 - How to train a YOLO models in a windows environment
 # TEAM MEMBERS
-- KRISNA KUMAR.S
+- KRISNA KUMAR.S (TEAM LEADER)
 - SUBASH.V
 - KAMESH.H
 - MAHESH.G
