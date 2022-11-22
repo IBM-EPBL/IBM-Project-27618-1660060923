@@ -1,3 +1,6 @@
+DEMO VIDEO LINK :https://drive.google.com/file/d/11XXOrU4zQJKDH63o9hGdvQqh37hBqIBv/view?usp=share_link
+![image](https://user-images.githubusercontent.com/100918407/203213298-2b7a18a5-3ea2-4a27-ae5c-33637cc4caa4.png)
+UNIVERSIRT ADMIT ELIGIBILITY PREDICTOR
 # IBM-Project-27618-1660060923
 VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning.
 ## Project Objectives:  
@@ -6,7 +9,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning.
 
 - How to train a YOLO models in a windows environment
 # TEAM MEMBERS
-- KRISNA KUMAR.S (TEAM LEADER)
+- KRISHNA KUMAR.S (TEAM LEADER)
 - SUBASH.V
 - KAMESH.H
 - MAHESH.G
